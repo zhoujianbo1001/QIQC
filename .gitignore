@@ -1,0 +1,7 @@
+input/*
+
+src/**/*.npy
+
+src/**/__pycache__/*
+src/**/*.log
+src/**/*.swp
