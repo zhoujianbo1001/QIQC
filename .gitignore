@@ -2,6 +2,7 @@ input/*
 
 src/**/*.npy
 
+src/**/.ch*
 src/**/__pycache__/*
 src/**/*.log
 src/**/*.swp
