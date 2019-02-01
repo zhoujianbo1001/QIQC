@@ -2,7 +2,7 @@ input/*
 
 src/**/*.npy
 
-src/**/.ch*
+src/**/.ipynb_checkpoints/*
 src/**/__pycache__/*
 src/**/*.log
 src/**/*.swp
